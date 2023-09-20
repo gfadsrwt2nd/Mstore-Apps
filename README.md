@@ -11,7 +11,12 @@ Produk<br>
 &#x2611; Tambah Produk <br>
 &#x2611; Edit Produk <br>
 &#x2611; Hapus Produk <br>
-&#x2611; Download Laporan Produk <br>
+&#x2611; Download Laporan Produk <br><br>
+Penjualan<br>
+&#x2611; Tambah Penjualan <br>
+&#x2611; Edit Penjualan <br>
+&#x2611; Hapus Penjualan <br>
+&#x2611; Download Laporan Penjualan <br>
 </div>
 
 ## Screenshoot

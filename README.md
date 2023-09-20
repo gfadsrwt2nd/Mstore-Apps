@@ -1,6 +1,12 @@
 # Mstore-Apps
 Aplikasi Manajemen Toko Online
 
+## Fitur
+Halaman Dashboard
+Halaman Produk
+Halaman Penjualan
+Halaman Laporan
+
 ## Screenshoot
 ![Capture](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/322d37a0-55e4-4c0c-8c08-afe04efab575)
 ![Capture2](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/dc390916-4178-4301-991b-fa23362287e0)

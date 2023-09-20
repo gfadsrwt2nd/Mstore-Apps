@@ -1,5 +1,5 @@
 # Mstore-Apps
-Aplikasi Manajemen Toko Online
+Aplikasi Manajemen Toko Online Menggunakan PHP & MySQL
 
 ## Fitur
 <div>

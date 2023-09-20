@@ -1,7 +1,7 @@
 # Mstore-Apps
 Aplikasi Manajemen Toko Online Menggunakan PHP & MySQL
 
-## Fitur
+## Fitur + CRUD
 <div>
 Halaman Dashboard <br>
 Halaman Produk <br>

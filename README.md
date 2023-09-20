@@ -6,7 +6,7 @@ Aplikasi Manajemen Toko Online Menggunakan PHP & MySQL
 &#x2611; Halaman Dashboard <br>
 &#x2611; Halaman Produk <br>
 &#x2611; Halaman Penjualan <br>
-&#x2611; Halaman Laporan <br>
+&#x2611; Halaman Laporan <br> <br>
 &#x2611; Tambah Produk <br>
 &#x2611; Edit Produk <br>
 &#x2611; Hapus Produk <br>

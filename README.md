@@ -3,10 +3,10 @@ Aplikasi Manajemen Toko Online Menggunakan PHP & MySQL
 
 ## Fitur + CRUD
 <div>
-Halaman Dashboard 	& # x2611;<br>
-Halaman Produk 	& # x2611;<br>
-Halaman Penjualan 	& # x2611;<br>
-Halaman Laporan 	& # x2611;<br>
+Halaman Dashboard 	&#x2611; <br>
+Halaman Produk 	&#x2611; <br>
+Halaman Penjualan 	&#x2611; <br>
+Halaman Laporan 	&#x2611; <br>
 </div>
 
 ## Screenshoot

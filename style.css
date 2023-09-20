@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif; /* Jenis font yang digunakan */
+    background-color: #f4f4f4; /* Warna latar belakang */
+    margin: 0; /* Menghapus margin luar */
+    padding: 0; /* Menghapus padding luar */
+    color: #55555; /* Warna teks */
+}
+
+/* CSS untuk navbar */
+.navbar {
+    background-color: #238c88;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li {
+    float: left;
+    margin-right: 10px;
+}
+
+.navbar a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #219c97;
+    color: black;
+}
+
+/* Tambahkan class "active" ke item navbar yang aktif */
+.navbar .active {
+    background-color: #4CAF50;
+}
+
+/* CSS untuk tabel data produk */
+.container {
+    margin-top: 20px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.table th,
+.table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.table th {
+    background-color: #f2f2f2;
+}
+
+.table-striped tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+.table-striped tbody tr:hover {
+    background-color: #ddd;
+}
+
+/* CSS untuk footer */
+.footer {
+    background-color: #238c88; /* Warna latar belakang footer */
+    color: white; /* Warna teks pada footer */
+    text-align: center; /* Pusatkan teks pada footer */
+    padding: 20px; /* Ruang pola dari atas dan bawah */
+    position: fixed; /* Footer akan tetap di bagian bawah halaman */
+    max-width: 100%;
+    bottom: 0; /* Footer akan menempel ke bagian bawah halaman */
+    width: 100%; /* Lebar footer 100% dari lebar layar */
+}
+
+.footer a {
+    color: #d1b906;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #ffe100;
+}
+
+
+#searchInput {
+    width: 30%; /* Lebar elemen input */
+    margin-left: 30%; /* Margin kiri untuk posisi input di tengah */
+    padding: 10px; /* Padding untuk menambah ruang di dalam input */
+    border: 1px solid #ccc; /* Garis tepi input */
+    border-radius: 3px; /* Sudut border dibulatkan */
+    font-size: 16px; /* Ukuran font teks dalam input */
+    background-color: #f4f4f4; /* Warna latar belakang input */
+    color: #333; /* Warna teks dalam input */
+}
+
+/* Efek hover saat kursor berada di atas input */
+#searchInput:hover {
+    border-color: #007bff; /* Ubah warna border saat dihover */
+}
+
+/* Efek saat input dalam fokus (terpilih) */
+#searchInput:focus {
+    outline: none; /* Hilangkan border biru saat input dalam fokus */
+    border-color: #007bff; /* Ubah warna border saat dalam fokus */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Efek bayangan saat dalam fokus */
+}

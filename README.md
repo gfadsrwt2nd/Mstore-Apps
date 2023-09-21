@@ -22,25 +22,34 @@ Penjualan<br>
 ## Screenshoot
 
 ### Login
-
 ![1  Login Page](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/c643051c-d270-426c-8e91-71c0ba6d3b72)
 
+### Dashboard
 ![2  Dashboard](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/de9683c9-987a-4c05-b3bd-f6cfca625cf9)
 
+### Product
 ![3  Product](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/80add460-46f7-4327-a2ec-0165074a383f)
 
+### Add Product
 ![4  Add Product](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/656bf389-887c-4d49-89c0-e386f27e5bc2)
 
+### Edit Product
 ![5  Edit Product](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/82e2827e-507d-4b29-9ddf-0b820e1c6af1)
 
+### Delete Product
 ![6  Hapus Produk](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/af7e3194-1e0a-46e4-97bb-104a0ac5b173)
 
+### Sales
 ![7  Sales](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/726af59d-1c04-43fb-9a7f-986f8ae340ba)
 
+### Add Sales
 ![8  Add Sales](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/8fc255fe-f5dd-4250-9f15-5772d0413267)
 
+### Edit Sales
 ![9  Edit Sales](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/bb1f5d60-bddb-4f43-8e91-e523348f633a)
 
+### Report Produk
 ![10  Report Produk](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/73135772-29b0-4a1e-b2dc-a9893ddfce50)
 
+### Report Sales
 ![11  Report Sales](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/f86fb347-c851-4799-a90c-daa8443de568)

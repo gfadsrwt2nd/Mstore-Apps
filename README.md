@@ -20,14 +20,24 @@ Penjualan<br>
 </div>
 
 ## Screenshoot
-![xCapture](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/83f6ac57-1b9d-410a-987f-002002894509)
+![1  Login Page](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/c643051c-d270-426c-8e91-71c0ba6d3b72)
 
-![Capture](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/322d37a0-55e4-4c0c-8c08-afe04efab575)
+![2  Dashboard](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/de9683c9-987a-4c05-b3bd-f6cfca625cf9)
 
-![Capture2](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/dc390916-4178-4301-991b-fa23362287e0)
+![3  Product](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/80add460-46f7-4327-a2ec-0165074a383f)
 
-![Capture3](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/b7c960a5-2ffb-4835-b470-0fb74ff5daa6)
+![4  Add Product](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/656bf389-887c-4d49-89c0-e386f27e5bc2)
 
-![Capture4](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/ce057dfd-6516-4849-a471-5de47d3bb3ae)
+![5  Edit Product](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/82e2827e-507d-4b29-9ddf-0b820e1c6af1)
 
-![Capture5](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/f7da4ab0-beef-4a97-ab47-f5c6d4806d09)
+![6  Hapus Produk](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/af7e3194-1e0a-46e4-97bb-104a0ac5b173)
+
+![7  Sales](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/726af59d-1c04-43fb-9a7f-986f8ae340ba)
+
+![8  Add Sales](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/8fc255fe-f5dd-4250-9f15-5772d0413267)
+
+![9  Edit Sales](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/bb1f5d60-bddb-4f43-8e91-e523348f633a)
+
+![10  Report Produk](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/73135772-29b0-4a1e-b2dc-a9893ddfce50)
+
+![11  Report Sales](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/f86fb347-c851-4799-a90c-daa8443de568)

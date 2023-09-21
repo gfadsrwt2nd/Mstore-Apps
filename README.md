@@ -20,8 +20,14 @@ Penjualan<br>
 </div>
 
 ## Screenshoot
+![xCapture](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/83f6ac57-1b9d-410a-987f-002002894509)
+
 ![Capture](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/322d37a0-55e4-4c0c-8c08-afe04efab575)
+
 ![Capture2](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/dc390916-4178-4301-991b-fa23362287e0)
+
 ![Capture3](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/b7c960a5-2ffb-4835-b470-0fb74ff5daa6)
+
 ![Capture4](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/ce057dfd-6516-4849-a471-5de47d3bb3ae)
+
 ![Capture5](https://github.com/gfadsrwt2nd/Mstore-Apps/assets/55633963/f7da4ab0-beef-4a97-ab47-f5c6d4806d09)
